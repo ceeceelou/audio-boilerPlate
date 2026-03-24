@@ -4,7 +4,7 @@ let smoothedLevel=0;
 
 function preload() {
   //replace this sound with something we can distribute
-  sound = loadSound('sounds/ponyboy.mp3');
+  sound = loadSound('sounds/champagnecoast.mp3');
   
   img = loadImage('images/kiwi.png');
 }
